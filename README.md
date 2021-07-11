@@ -1,4 +1,5 @@
-### Hi there, I am George Chen 🌱
+### Hi there, I am [George Chen](https://github.com/neural022/) 🌱
+
 
 
 
