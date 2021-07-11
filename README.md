@@ -1,7 +1,7 @@
 ### Hi there 👋 I am George Chen
 ![George Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=neural022&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
-
+___________________________________________________________________________
 
 <!--
 **neural022/neural022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
