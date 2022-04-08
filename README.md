@@ -13,7 +13,7 @@ operating system  | ![image](https://img.shields.io/badge/Git-F05032?style=for-t
 
 
 <details>
-  <summary>M</summary>
+  <summary>Most Used Languages</summary>
   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=neural022)
 </details>
 
