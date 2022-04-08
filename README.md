@@ -1,4 +1,4 @@
-### Hi there, I am [George Chen](https://github.com/neural022/) 🌱
+### Hi there, I am [George Chen](https://github.com/neural022/) 👩‍💻
 <!-- ![George Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=neural022&show_icons=true&theme=dark&hide=contribs,prs) -->
 
 <!-- ![image](url) -->
