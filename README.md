@@ -11,7 +11,7 @@ frontend          | ![image](https://img.shields.io/badge/JavaScript-323330?styl
 other             | ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | -
 operating system  | ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | - -->
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username={neural022})
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=neural022)
 
 
 
