@@ -3,7 +3,7 @@
 
 <!-- ![image](url) -->
 <!-- source:  -->
-<details>
+<!--details>
   <summary>Skills</summary>
 
 Data Science | |
@@ -26,7 +26,7 @@ operating system  | ![image](https://img.shields.io/badge/Ubuntu-E95420?style=fo
   <summary>Most Used Languages</summary>
 
   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=neural022)
-</details>
+</details-->
 
 
 
